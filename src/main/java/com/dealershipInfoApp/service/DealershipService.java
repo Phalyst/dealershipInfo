@@ -20,5 +20,4 @@ public interface DealershipService {
     public DealerInformation saveDealerInfo(DealerInformation dealerInformation);
 
     public DealerInformation updateDealerInfo(DealerInformation dealerInformation);
-
 }

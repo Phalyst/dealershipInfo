@@ -19,7 +19,6 @@ import static org.junit.Assert.assertEquals;
 @RunWith(MockitoJUnitRunner.class)
 public class DealershipServiceTest {
 
-
     @Mock
     private DealershipRepo dealershipRepo;
 

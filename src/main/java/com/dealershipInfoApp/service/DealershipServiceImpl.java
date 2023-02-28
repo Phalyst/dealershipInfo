@@ -24,7 +24,6 @@ public class DealershipServiceImpl implements DealershipService{
     @Autowired
     DealershipRepo dealershipRepo;
 
-
     @Override
     public List<Country> getCountryDetails() {
         return countryRepo.findAllByOrderByNameAsc();

@@ -1,3 +1,4 @@
+
 insert into COUNTRY(COUNTRY_CODE,NAME)VALUES('ZA','South Africa');
 insert into COUNTRY(COUNTRY_CODE,NAME)VALUES('MZ', 'Mozambique');
 insert into COUNTRY(COUNTRY_CODE,NAME )VALUES('NA', 'Namibie');

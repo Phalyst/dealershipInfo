@@ -45,5 +45,4 @@ public class DealerShipController {
 
         return dealershipService.saveDealerInfo(dealerInformation);
     }
-
 }

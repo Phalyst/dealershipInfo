@@ -7,7 +7,6 @@ import javax.persistence.*;
 @Table(indexes = @Index(name="index_countrycode",columnList = "COUNTRY_CODE"))
 public class Country{
 
-
     @Id
     @Column(name = "COUNTRY_CODE", nullable = false)
     private String countryCode;
